@@ -7,7 +7,7 @@
 public class TestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AnnoqrtztestApplication.class, args);
+        SpringApplication.run(TestApplication.class, args);
     }
 
 }
