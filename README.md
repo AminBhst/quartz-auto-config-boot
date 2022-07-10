@@ -13,7 +13,7 @@ public class TestApplication {
 }
 ```
 
-#### Annotate your job class with @QuartzJob and provide either the cron or the repeatInterval property
+#### Annotate your job classes with @QuartzJob and provide either the cron or the repeatInterval property
 ```java
 @QuartzJob(cron = "0 0/1 * * * ?")
 public class TestJob implements Job {
