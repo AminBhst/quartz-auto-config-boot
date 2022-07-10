@@ -7,6 +7,32 @@
     <groupId>com.github.aminbhst</groupId>
     <artifactId>quartz-autoconfig-boot</artifactId>
     <version>1.0</version>
+    <name>Quartz AutoConfig Boot</name>
+    <url>https://github.com/AminBhst/quartz-autoconfig-boot</url>
+    <description>Annotation processor which generates bean configurations for quartz jobs</description>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Amin Beheshti</name>
+            <email>amin.bhst@gmail.com</email>
+            <organization>com.github.aminbhst</organization>
+            <organizationUrl>https://github.com/AminBhst</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/AminBhst/quartz-autoconfig-boot.git</connection>
+        <developerConnection>scm:git:ssh://github.com:AminBhst/quartz-autoconfig-boot.git</developerConnection>
+        <url>https://github.com/AminBhst/quartz-autoconfig-boot</url>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>org.quartz-scheduler</groupId>
