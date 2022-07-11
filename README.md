@@ -1,10 +1,9 @@
-
 [![license](https://img.shields.io/github/license/aminbhst/quartz-autoconfig-boot)](https://github.com/AminBhst/quartz-autoconfig-boot/blob/main/LICENSE.md)
 [![release](https://img.shields.io/github/v/release/aminbhst/quartz-autoconfig-boot)](https://github.com/aminbhst/quartz-autoconfig-boot/releases)
 
 ## Usage Guide
 
-#### Annotate your SpringBootApplication Class with @EnableQuartzConfiguration
+### Annotate your SpringBootApplication Class with @EnableQuartzConfiguration
 
 ```java
 
@@ -18,7 +17,7 @@ public class TestApplication {
 }
 ```
 
-#### Annotate your job classes with @QuartzJob and provide either the cron or the repeatInterval property
+### Annotate your job classes with @QuartzJob and provide either the cron or the repeatInterval property
 
 ```java
 
@@ -36,9 +35,9 @@ public class TestJob implements Job {
 
 #### You can add Quartz AutoConfig to your project as a maven dependency
 
-It is distributed through [Maven Central](http://search.maven.org/)
+#### It is distributed through [Maven Central](http://search.maven.org/)
 
-### Apache Maven :
+### Apache Maven
 
 ```xml
 
@@ -50,7 +49,7 @@ It is distributed through [Maven Central](http://search.maven.org/)
 </dependency>
 ``` 
 
-### Gradle :
+### Gradle
 
 ```groovy
 dependencies {
