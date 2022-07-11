@@ -1,3 +1,6 @@
+
+[![license](https://img.shields.io/github/license/aminbhst/quartz-autoconfig-boot)](https://github.com/AminBhst/quartz-autoconfig-boot/blob/main/LICENSE.md)
+
 ## Usage Guide
 
 #### Annotate your SpringBootApplication Class with @EnableQuartzConfiguration
