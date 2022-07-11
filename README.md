@@ -36,7 +36,7 @@ public class TestJob implements Job {
 
 #### You can add Quartz AutoConfig to your project as a maven dependency
 
-#### It is distributed through [Maven Central](http://search.maven.org/)
+#### It is distributed through [Maven Central](https://search.maven.org/artifact/io.github.aminbhst/quartz-autoconfig-boot)
 
 ### Apache Maven
 
