@@ -1,5 +1,6 @@
 
 [![license](https://img.shields.io/github/license/aminbhst/quartz-autoconfig-boot)](https://github.com/AminBhst/quartz-autoconfig-boot/blob/main/LICENSE.md)
+[![release](https://img.shields.io/github/v/release/aminbhst/quartz-autoconfig-boot)](https://github.com/aminbhst/quartz-autoconfig-boot/releases)
 
 ## Usage Guide
 
