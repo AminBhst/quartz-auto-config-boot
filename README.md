@@ -44,8 +44,8 @@ public class TestJob implements Job {
 
 <dependency>
     <groupId>io.github.aminbhst</groupId>
-    <artifactId>quartz-autoconfig-boot</artifactId>
-    <version>1.0</version>
+    <artifactId>quartz-auto-config-boot</artifactId>
+    <version>1.0.0</version>
     <scope>compile</scope>
 </dependency>
 ``` 
@@ -54,7 +54,7 @@ public class TestJob implements Job {
 
 ```groovy
 dependencies {
-    compileOnly 'io.github.aminbhst:quartz-autoconfig-boot:1.0'
-    annotationProcessor 'io.github.aminbhst:quartz-autoconfig-boot:1.0'
+    compileOnly 'io.github.aminbhst:quartz-auto-config-boot:1.0.0'
+    annotationProcessor 'io.github.aminbhst:quartz-auto-config-boot:1.0.0'
 }
 ```
