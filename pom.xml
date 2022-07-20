@@ -8,8 +8,8 @@
     <artifactId>quartz-autoconfig-boot</artifactId>
     <version>1.0</version>
     <name>Quartz AutoConfig Boot</name>
-    <url>https://github.com/AminBhst/quartz-autoconfig-boot</url>
-    <description>Annotation processor which generates bean configurations for quartz jobs</description>
+    <url>https://github.com/AminBhst/quartz-auto-config-boot</url>
+    <description>Annotation processor which generates configuration beans for quartz jobs</description>
 
     <licenses>
         <license>
@@ -28,9 +28,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/AminBhst/quartz-autoconfig-boot.git</connection>
-        <developerConnection>scm:git:ssh://github.com:AminBhst/quartz-autoconfig-boot.git</developerConnection>
-        <url>https://github.com/AminBhst/quartz-autoconfig-boot</url>
+        <connection>scm:git:git://github.com/AminBhst/quartz-auto-config-boot.git</connection>
+        <developerConnection>scm:git:ssh://github.com:AminBhst/quartz-auto-config-boot.git</developerConnection>
+        <url>https://github.com/AminBhst/quartz-auto-config-boot</url>
     </scm>
 
     <dependencies>
