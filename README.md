@@ -32,7 +32,7 @@ public class TestJob implements Job {
 }
 ```
 
-## Get Quartz AutoConfig Boot
+## Get Quartz Auto Config Boot
 
 #### You can add Quartz AutoConfig to your project as a maven dependency
 
