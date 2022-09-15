@@ -4,7 +4,7 @@
 
 ## Usage Guide
 
-### Annotate your SpringBootApplication Class with @EnableQuartzConfiguration
+#### Annotate your SpringBootApplication Class with `@EnableQuartzConfiguration`
 
 ```java
 
@@ -18,7 +18,7 @@ public class TestApplication {
 }
 ```
 
-### Annotate your job classes with @QuartzJob and provide either the cron or the repeatInterval property
+#### Annotate your job classes with `@QuartzJob` and provide either the `cron` or the `repeatInterval` property
 
 ```java
 
