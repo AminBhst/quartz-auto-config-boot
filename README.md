@@ -1,6 +1,5 @@
 [![license](https://img.shields.io/github/license/aminbhst/quartz-autoconfig-boot)](https://github.com/AminBhst/quartz-autoconfig-boot/blob/main/LICENSE.md)
 [![release](https://img.shields.io/github/v/release/aminbhst/quartz-auto-config-boot)](https://github.com/aminbhst/quartz-auto-config-boot/releases)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e7805864f63f416782605df9e4733581)](https://www.codacy.com/gh/AminBhst/quartz-autoconfig-boot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AminBhst/quartz-autoconfig-boot&amp;utm_campaign=Badge_Grade)
 
 ## Usage Guide
 
